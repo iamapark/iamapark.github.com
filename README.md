@@ -4,7 +4,7 @@
 
 <div id="donut-example"></div>
 
-<script>
+<script type="text/javascript">
   Morris.Donut({
   element: 'donut-example',
   data: [
